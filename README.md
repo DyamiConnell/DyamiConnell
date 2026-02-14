@@ -7,7 +7,7 @@ I build automation tools for the mechanical trades, bridging the gap between fie
 ** 🔭 I’m currently working on:**
 * **[TestAndBalance.xyz](https://testandbalance.xyz)**: An open-source suite of Python calculators for Fan Laws and Air Density corrections.
 * **Automated Reporting**: Building n8n workflows to generate field reports automatically.
-* **Tool Tracking Software**: (https://proptooltrack.com)** Scan QR Codes for tool checkout
+* **Tool Tracking Software**: (https://protooltrack.com)** Scan QR Codes for tool checkout
 ** 🛠 Tech Stack:**
 * **Languages**: Python, JavaScript
 * **Industry Tools**: AABC Standards, Hydronic Balancing, Airflow Dynamics
